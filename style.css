@@ -1,0 +1,178 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    background-color: #21212E;
+    font-family: 'brandon';
+    font-weight: 10;
+    font-size: 13px;
+    color:bisque;
+    
+}
+li{
+    float:right;
+    
+}
+a{
+    display: inline;
+    padding: 1 13;
+}
+@font-face{
+    font-family: 'brandon';
+    src:url(fonts/BrandonGrotesque-Bold.ttf);
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face{
+    font-family: 'brandon thin';
+    src:url(fonts/BrandonGrotesque-Thin.ttf);
+    font-style: normal;
+    font-weight: 10;
+}
+h1{
+    font-family:brandon ;
+    font-weight: 100;
+    color: antiquewhite;
+    margin-left: 50px;
+    margin-top:30px;
+}
+h5{
+    font-family: brandon;
+    font-weight:10;
+    color:aliceblue;
+    margin-right: 800px;
+    margin-left: 50px;
+}
+form{
+    float: left;
+    size: 1in;
+    margin-top: 0px;
+
+}
+a{
+    font-family: 'brandon';
+    font-weight: 10;
+    font-size: 13px;
+    color:bisque;
+
+}
+.image{
+    width: 15%;
+    position: absolute;
+    top: 100px;
+    left:1000px;
+}
+.image1{
+    width: 15%;
+    position: absolute;
+    top: 100px;
+    left:900px;
+}
+.image2{
+    width: 15%;
+    position: absolute;
+    top: 100px;
+    left:950px;
+}
+p1{
+    font-family:brandon ;
+    font-weight: 100;
+    color: antiquewhite;
+    margin-left: 50px;
+    margin-top:20px;
+}
+.image3{
+    width: 29%;
+    position: absolute;
+    top: 500px;
+    left:850px;
+
+}
+.image4{
+    width: 29%;
+    position: absolute;
+    top: 1200px;
+    left:50px;
+
+}
+.image5{
+    width: 29%;
+    position: absolute;
+    top: 1200px;
+    left:300px;
+
+}
+.image6{
+    width: 29%;
+    position: absolute;
+    top: 1200px;
+    left:550px;
+
+
+}
+form1{
+    float: right;
+    size: 1in;
+    margin-top: 0px;
+
+}
+p2{
+    font-family:brandon ;
+    font-weight: 100;
+    color: antiquewhite;
+
+   
+}
+.image7{
+    width: 10%;
+    position: absolute;
+    top: 2500px;
+    left:100px;
+
+
+}
+.image8{
+    width: 10%;
+    position: absolute;
+    top: 2500px;
+    left:400px;
+
+
+}
+.image9{
+    width: 10%;
+    position: absolute;
+    top: 2500px;
+    left:700px;
+
+
+}
+.image10{
+    width: 10%;
+    position: absolute;
+    top: 2500px;
+    left:1000px;
+
+
+}
+
+ul1{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    font-family: 'brandon';
+    font-weight: 10;
+    font-size: 13px;
+    color:bisque;
+    
+}
+li1{
+    float:right;
+    
+}
+a1{
+    display: inline;
+    padding: 1 60;
+}
